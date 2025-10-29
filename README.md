@@ -73,6 +73,12 @@ Det jag tar med mig är framför allt:
 Jag kommer alltid tänka på systemutveckling som mer än kod — det handlar också om automation, miljöer, tester, struktur och leveransflöde.  
 Jag tar med mig förståelsen för hur containerisering, CI/CD och versionshantering hänger ihop i en helhet som gör utvecklingen snabbare och stabilare.
 
+Utöver det blev kursen ett bra sätt att få en tydlig bild av hur DevOps påverkas i både molnbaserade miljöer och mikrotjänstarkitekturer.  
+Även om detta projekt inte är distribuerat i molnet eller uppdelat i flera tjänster, förstod jag hur pipelines i verkligheten måste hantera saker som container registries, secrets, deployment-flöden och övervakning i en driftmiljö.  
+Och i mikrotjänster hade varje tjänst behövt sin egen pipeline, sina egna tester och sin egen deployment — vilket gör tydligt varför DevOps blir helt avgörande när system växer.
+
+**Jag har också testat flera av dessa delar i egna småprojekt under kursens gång, där jag experimenterat med Docker, secrets, enklare pipelines och olika körmiljöer, vilket hjälpte mig att förstå hur teorin omsätts i praktiken.**
+
 Den insikten förändrar hur jag bygger projekt framåt.
 
 ---
